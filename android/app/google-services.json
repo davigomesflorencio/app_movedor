@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668465487889",
+    "project_id": "app-fisio-7c8a9",
+    "storage_bucket": "app-fisio-7c8a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668465487889:android:ac8dfd551d0494f6e911b0",
+        "android_client_info": {
+          "package_name": "com.example.aplicacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668465487889-0vhrcnbp42oih6pr1nsf6neeuu4tn2dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicacao",
+            "certificate_hash": "6a2245c755b2fe0052d522ffbf531fd43ccacdaa"
+          }
+        },
+        {
+          "client_id": "668465487889-ljfghp1d5rhtm3q5ad8torjtgl3s83fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicacao",
+            "certificate_hash": "4fe25d50e577d8b2137c50726ea84ed103ee66c8"
+          }
+        },
+        {
+          "client_id": "668465487889-nnhctsgtos8252pp4ppgipehdtsrpd9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVXItDPSrqh8uBBVjhJIrMh0jSJ4UGBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668465487889-nnhctsgtos8252pp4ppgipehdtsrpd9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
